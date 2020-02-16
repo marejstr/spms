@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spms/static/css/main.42ebfae4.chunk.css",
+    "main.js": "/spms/static/js/main.138deb37.chunk.js",
+    "main.js.map": "/spms/static/js/main.138deb37.chunk.js.map",
+    "runtime-main.js": "/spms/static/js/runtime-main.d86af622.js",
+    "runtime-main.js.map": "/spms/static/js/runtime-main.d86af622.js.map",
+    "static/js/2.37952f16.chunk.js": "/spms/static/js/2.37952f16.chunk.js",
+    "static/js/2.37952f16.chunk.js.map": "/spms/static/js/2.37952f16.chunk.js.map",
+    "index.html": "/spms/index.html",
+    "precache-manifest.81e8b468427c1526c684c30d076e8e75.js": "/spms/precache-manifest.81e8b468427c1526c684c30d076e8e75.js",
+    "service-worker.js": "/spms/service-worker.js",
+    "static/css/main.42ebfae4.chunk.css.map": "/spms/static/css/main.42ebfae4.chunk.css.map",
+    "static/media/index.css": "/spms/static/media/arrow_down.135d4e43.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d86af622.js",
+    "static/js/2.37952f16.chunk.js",
+    "static/css/main.42ebfae4.chunk.css",
+    "static/js/main.138deb37.chunk.js"
+  ]
+}
